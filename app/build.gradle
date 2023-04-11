@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.btandroid_2_week2'
+    namespace 'com.example.changebackgroundcolor_2'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.btandroid_2_week2"
-        minSdk 24
+        applicationId "com.example.changebackgroundcolor_2"
+        minSdk 29
         targetSdk 33
         versionCode 1
         versionName "1.0"
